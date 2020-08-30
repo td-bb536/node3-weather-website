@@ -55,3 +55,9 @@ button {
     color: white;
     padding: 8px;
 }
+
+@media (max-width: 767px) {
+    body {
+        max-width: 80vw;
+    }
+}
